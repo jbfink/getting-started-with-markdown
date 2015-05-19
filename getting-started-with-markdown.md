@@ -28,10 +28,10 @@ By following Markdown syntax, you'll be able to produce files that are both legi
 ### Markdown Syntax
 Markdown files are saved with the extension `.md`, and can be opened in a text editor such as TextEdit, Notepad, Sublime Text, or Vim. Many websites and publishing platforms also offer web-based editors and/or extensions for entering text using Markdown syntax.
 
-In this tutorial, we'll be practicing Markdown syntax in the browser using [Markdown Viewer](http://www.markdownviewer.com/). You'll be able to enter Markdown-formatted text on the left and immediately see the rendered version alongside it on the right. 
+In this tutorial, we'll be practicing Markdown syntax in the browser using [a simple markdown viewer](http://jbfink.github.io/mdown-editor/). You'll be able to enter Markdown-formatted text on the left and immediately see the rendered version alongside it on the right. 
 
 #### Headings
-Four levels of headings are available in Markdown, and are indicated by the number of `#` preceding the heading text. Clear the existing text in [Markdown Viewer](http://www.markdownviewer.com/) and enter the following examples into the textbox:
+Four levels of headings are available in Markdown, and are indicated by the number of `#` preceding the heading text. Enter the following examples into the textbox:
 
 ```
 # First level heading
